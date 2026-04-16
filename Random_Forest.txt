@@ -1,6 +1,6 @@
-# Random Forest
+Random Forest
 
-## Dataset Description:
+Dataset Description:
 
 Use the Glass dataset and apply the Random forest model.
 
